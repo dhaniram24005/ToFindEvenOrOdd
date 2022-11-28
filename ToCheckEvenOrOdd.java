@@ -21,7 +21,7 @@ public class ToCheckEvenOrOdd {
     }
 
 }
-/*
+/* output:
  * Enter an integer no :
  * 10
  * 10: it is an even no
